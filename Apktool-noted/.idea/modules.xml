@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apktool-master.iml" filepath="$PROJECT_DIR$/Apktool-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.apktool/apktool-cli/apktool-cli.iml" filepath="$PROJECT_DIR$/brut.apktool/apktool-cli/apktool-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.apktool/apktool-lib/apktool-lib.iml" filepath="$PROJECT_DIR$/brut.apktool/apktool-lib/apktool-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.apktool/brut.apktool.iml" filepath="$PROJECT_DIR$/brut.apktool/brut.apktool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.j.common/brut.j.common.iml" filepath="$PROJECT_DIR$/brut.j.common/brut.j.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.j.dir/brut.j.dir.iml" filepath="$PROJECT_DIR$/brut.j.dir/brut.j.dir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brut.j.util/brut.j.util.iml" filepath="$PROJECT_DIR$/brut.j.util/brut.j.util.iml" />
+    </modules>
+  </component>
+</project>
